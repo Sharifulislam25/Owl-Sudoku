@@ -1,5 +1,7 @@
 # 🦉 Owl Sudoku
 
+🎮 Play Now: https://sharifulislam25.github.io/Owl-Sudoku/
+
 > A beautifully designed, feature-rich Sudoku game with a unique owl theme!
 
 ![Sudoku](https://img.shields.io/badge/Game-Sudoku-blue) ![License](https://img.shields.io/badge/License-MIT-green) ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
